@@ -1,4 +1,4 @@
-package messy_filtering.solution.query_object.vanilla
+package messy_filtering.solution.query_object.peaa.vanilla
 
 class QueryObject<T>(
     private val klass: Class<T>,

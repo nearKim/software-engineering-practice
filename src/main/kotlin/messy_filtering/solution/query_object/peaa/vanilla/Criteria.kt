@@ -1,4 +1,4 @@
-package messy_filtering.solution.query_object.vanilla
+package messy_filtering.solution.query_object.peaa.vanilla
 
 open class Criteria(
     private val sqlOperator: String,

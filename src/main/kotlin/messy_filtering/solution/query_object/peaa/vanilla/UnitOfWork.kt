@@ -1,4 +1,4 @@
-package messy_filtering.solution.query_object.vanilla
+package messy_filtering.solution.query_object.peaa.vanilla
 
 class UnitOfWork {
     private val mappers = mutableMapOf<Class<*>, Mapper>()

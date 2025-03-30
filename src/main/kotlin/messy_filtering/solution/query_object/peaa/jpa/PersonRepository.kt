@@ -1,4 +1,4 @@
-package messy_filtering.solution.query_object.jpa
+package messy_filtering.solution.query_object.peaa.jpa
 
 import org.springframework.data.jpa.repository.JpaRepository
 

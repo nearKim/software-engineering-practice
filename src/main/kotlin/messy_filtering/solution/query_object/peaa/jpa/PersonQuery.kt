@@ -1,4 +1,4 @@
-package messy_filtering.solution.query_object.jpa
+package messy_filtering.solution.query_object.peaa.jpa
 
 import jakarta.persistence.EntityManager
 import jakarta.persistence.criteria.*
