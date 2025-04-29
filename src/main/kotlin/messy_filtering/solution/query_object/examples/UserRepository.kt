@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository
 // Main repository interface
 interface UserRepository :
     JpaRepository<User, Int>,
-    CustomUserRepository
+    CustomUserRepository 
 
 // Custom repository interface
 interface CustomUserRepository {

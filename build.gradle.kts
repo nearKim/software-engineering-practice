@@ -15,6 +15,8 @@ repositories {
 
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0")
+    implementation("junit:junit:4.13.2")
     testImplementation(kotlin("test"))
 }
 
